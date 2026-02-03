@@ -1,89 +1,65 @@
-# Hi 👋, I’m Vlad
+# 💫 About Me
 
-I build software that forgives humans.
+Hi, I’m Vlad. I build software that actually tries to understand humans.  
 
-<p align="center">
-  <img src="https://img.shields.io/github/profile/views/vladb-evs?label=Profile%20Views&style=flat&color=0e75b6" alt="profile views" />
-</p>
+## 🔭 Currently Working On
+**Neuro Notion**  
+A life management platform designed for adults with ADHD that actually gets how your brain works. It organizes thoughts, tasks, goals, and routines in a calm, user-friendly way without adding cognitive overload.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vladb-evs&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
+**Claudia**, the voice-first AI assistant, transforms chaotic ideas into actionable items and mood logs automatically.
 
----
+- Natural language task input  
+- Mood-aware workflows  
+- ADHD-centric design that actually works  
+- Templates and dashboards built to reduce friction  
+- Blog and insights for real-world ADHD challenges  
 
-## 🔭 Currently working on
-
-**Neuro Notion**
-A life management platform designed for adults with ADHD that actually understands how your brain works. It organizes thoughts, tasks, goals, and routines in a calm, user-friendly way without adding cognitive overload.
-
-**Claudia**, the voice-first AI assistant, transforms chaotic ideas into actionable items and mood logs automatically, letting users speak naturally instead of wrestling with interfaces.
-
-* Natural language task input
-* Mood-aware workflows
-* ADHD-centric design that actually works
-* Templates and dashboards built to reduce friction and stress
-* Blog and insights for real-world ADHD challenges
-
-[Check it out → Neuro Notion](https://www.neuro-notion.com/)
+[👉 Check it out: Neuro Notion](https://www.neuro-notion.com/)
 
 ---
 
-## 🧠 What I care about
+## 🧠 What I Care About
 
-* ADHD-informed product design
-* Calm UX over clever UX
-* Defaults that actually help
-* Software that tolerates bad days
-
----
-
-## ⚡ Fun fact
-
-I think I’m funny and I regularly do things that may or may not bring me closer to God
-(skydiving, rock climbing, urban climbing, extreme sports in general)
+- ADHD-informed product design  
+- Calm UX over clever UX  
+- Defaults that actually help  
+- Software that tolerates bad days  
 
 ---
 
-## 📫 Reach me
+## ⚡ Fun Fact
 
-**[vlad@neuro-notion.com](mailto:vlad@neuro-notion.com)**
+I think I’m funny and I regularly do things that may or may not bring me closer to God:  
+skydiving, rock climbing, urban climbing, extreme sports in general
 
 ---
 
-## 🛠 Languages & Tools
+## 🌐 Connect With Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/bacila.vlad) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/vlad-bacila) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:vlad@neuro-notion.com)
+
+---
+
+## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/capacitorjs/capacitor/main/assets/Capacitor_Logo.svg" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/supabase.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://img.icons8.com/ios/50/000000/artificial-intelligence.png" width="40"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=#61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=#61DAFB" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vuedotjs&logoColor=#4FC08D" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Capacitor-000000?style=for-the-badge&logo=capacitor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
----
-
-## 📊 GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vladb-evs&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vladb-evs&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vladb-evs&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vladb-evs&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-  <i>Shipping beats polishing. Calm beats clever.</i>
-</p>
+# 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=vladb-evs&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=vladb-evs&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vladb-evs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) ## 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=vladb-evs&theme=radical&no-frame=false&no-bg=true&margin-w=4) <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
