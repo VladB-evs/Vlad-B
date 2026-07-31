@@ -1,57 +1,196 @@
-# Vlad
-Founder & CTO of **Romi powered by Neuro**.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Vlad%20B.&fontSize=70&animation=twinkling"/>
+</p>
 
-Most of my work revolves around reducing friction. Less tapping, less thinking, less fighting with software.
+<h3 align="center">
+Founder & CTO of <strong>Romi powered by Neuro</strong>
+</h3>
 
-## Building right now:
+<p align="center">
+Reducing friction.<br/>
+Less tapping. Less thinking. Less fighting with software.
+</p>
 
-### 🧠 Romi
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1400&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Romi;Open+Source+Developer;Designing+software+people+actually+enjoy+using;Just+a+guy+with+a+laptop"/>
+</p>
 
-A life management platform built for adults with ADHD.
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](#)
 
-Tasks, routines, notes, goals, calendars, and everything else life throws at you, organized in a way that feels natural instead of overwhelming.
+# <img src="https://cdn.simpleicons.org/codebuddy/white" height="22"> Building Right Now 
 
-An AI assistant that listens to the chaos in your head and quietly turns it into something useful.
+<table>
+<tr>
 
-## ⚡ Experiments & Small Apps
+<td width="60%" valign="top">
 
-Sometimes an idea doesn't need to become a startup. Sometimes it just needs to exist.
+## Romi
 
-- 🍎 [**Perch**](https://github.com/VladB-evs/Perch/releases/tag/v1.1)  - Tiny menu bar to-do list, all offline, all in your top bar for later when you need it.
-- 🔖 [**Nook**](https://github.com/VladB-evs/Nook---Text-Expander) - Text expander for macOS, top bar app, scripts and variables available.
-- 🔖 [**Mark Flow**](https://mark-flow-one.vercel.app/) - web based markdown to text editor, for those who need plan text from markdown lol
-- 🪦 [**SVG Decomposer**](https://svg-decomposer.vercel.app/) - stupid name but it works if you need specific layers from an SVG file 
+An AI-powered life management platform built for adults with ADHD.
 
-More weird little apps coming...
+Romi captures thoughts, organizes tasks, manages routines, goals, calendars and notes without making life feel like another productivity app.
 
-All these can be found on my github or you can follow the links above. 
+Instead of forcing structure, Romi listens to the chaos in your head and quietly turns it into something useful.
 
----
+</td>
 
-## 🌐 Connect With Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/bacila.vlad) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/vlad-bacila) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:vlad@neuro-notion.com)
+<td width="40%" valign="top">
 
----
+## Habitat
 
-## 💻 Tech Stack
+An open-source, local-first knowledge platform.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=#61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=#61DAFB" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vuedotjs&logoColor=#4FC08D" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Capacitor-000000?style=for-the-badge&logo=capacitor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+Every note belongs to you.
+
+No lock-in.
+
+No cloud dependency.
+
+Just fast, customizable software that stores everything locally.
+
+</td>
+
+</tr>
+</table>
+
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](#)
+
+# <img src="https://cdn.simpleicons.org/opensourceinitiative/white" height="22"> Other Open Source Projects
+
+<table>
+
+<tr>
+<td width="25%" align="center">
+
+### Perch
+
+Tiny offline menu bar to-do list.
+
+Simple enough that you'll actually use it.
+
+</td>
+
+<td width="25%" align="center">
+
+### Nook
+
+macOS text expander with scripting, variables and automation.
+
+</td>
+
+<td width="25%" align="center">
+
+### Mark Flow
+
+Markdown editor that converts rich markdown into clean plain text.
+
+</td>
+
+<td width="25%" align="center">
+
+### SVG Decomposer
+
+Extract individual layers from SVG files without opening Illustrator.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<a href="https://github.com/VladB-evs/Perch/releases/tag/v1.1">Repository</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://github.com/VladB-evs/Nook---Text-Expander">Repository</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://mark-flow-one.vercel.app/">Website</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://svg-decomposer.vercel.app/">Website</a>
+
+</td>
+
+</tr>
+
+</table>
+
+<p align="center">
+More weird little apps are always on the way.
+</p>
+
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](#)
+
+# <img src="https://cdn.simpleicons.org/typescript/white" height="22"> Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,electron,swift,kotlin,flutter,python,supabase,firebase,postgres,sqlite,aws,gcp,html,css,git,github,vscode"/>
+
+</p>
+
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](#)
+
+# <img src="https://cdn.simpleicons.org/github/white" height="22"> GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=VladB-evs&theme=radical"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VladB-evs&theme=react-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=VladB-evs&label=PROFILE+VIEWS&style=flat-square"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Time-3817%20hrs%2020%20mins-blue?style=flat" alt="Code Time" />
+</p>
+
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](#)
+
+# <img src="https://cdn.simpleicons.org/changedetection/white" height="22"> Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/vlad-bacila">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<a href="https://instagram.com/bacila.vlad">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+<a href="mailto:vlad@romiadhd.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<strong>Just a guy with a laptop.</strong>
+</p>
+
+<p align="center">
+If any of my projects helped you, consider leaving a ⭐
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
