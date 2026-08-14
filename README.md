@@ -3,194 +3,164 @@
 </p>
 
 <h3 align="center">
-Founder & CTO of <strong>Romi powered by Neuro</strong>
+  Founder & CTO of <strong>Romi powered by Neuro</strong>
 </h3>
 
 <p align="center">
-Reducing friction.<br/>
-Less tapping. Less thinking. Less fighting with software.
+  Reducing friction.<br/>
+  Less tapping. Less thinking. Less fighting with software.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1400&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Romi;Open+Source+Developer;Designing+software+people+actually+enjoy+using;Just+a+guy+with+a+laptop"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1400&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Romi;Building+open+source+software;Designing+software+people+actually+enjoy+using;Just+a+guy+with+a+laptop"/>
 </p>
 
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](#)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg"/>
+</p>
 
-# <img src="https://cdn.simpleicons.org/codebuddy/white" height="22"> Building Right Now 
+# <img src="https://cdn.simpleicons.org/codebuddy/white" height="22"> What I'm Building
 
-<table>
-<tr>
+I'm interested in software that gets out of the way.
 
-<td width="60%" valign="top">
+I like building tools that reduce the number of things people have to click, remember, configure, or think about just to get something done.
 
 ## Romi
 
-An AI-powered life management platform built for adults with ADHD.
+**AI-powered life management without the productivity-app overhead.**
 
-Romi captures thoughts, organizes tasks, manages routines, goals, calendars and notes without making life feel like another productivity app.
+Romi is designed to turn thoughts and everyday chaos into useful structure.
 
-Instead of forcing structure, Romi listens to the chaos in your head and quietly turns it into something useful.
+It brings together tasks, routines, goals, calendars, notes, and other parts of life while trying to keep the interaction as natural as possible.
 
-</td>
+The goal isn't to give people another dashboard to maintain.
 
-<td width="40%" valign="top">
+It's to make managing life require less effort in the first place.
+
+**[Website](https://romiadhd.com)**
 
 ## Habitat
 
-An open-source, local-first knowledge platform.
+**A local-first knowledge platform built around ownership.**
 
-Every note belongs to you.
+Habitat treats knowledge as files rather than something trapped inside a proprietary cloud database.
 
-No lock-in.
+Notes are self-contained, customizable, and stored locally, giving users control over their data while keeping the experience fast and flexible.
 
-No cloud dependency.
+**[Repository](https://github.com/...)**
 
-Just fast, customizable software that stores everything locally.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg"/>
+</p>
 
-</td>
+# <img src="https://cdn.simpleicons.org/opensourceinitiative/white" height="22"> Open Source Projects
 
-</tr>
-</table>
+A collection of smaller tools, experiments, and apps I've built along the way.
 
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](#)
+## Perch
 
-# <img src="https://cdn.simpleicons.org/opensourceinitiative/white" height="22"> Other Open Source Projects
-
-<table>
-
-<tr>
-<td width="25%" align="center">
-
-### Perch
-
-Tiny offline menu bar to-do list.
+**Tiny offline to-do list for the macOS menu bar.**
 
 Simple enough that you'll actually use it.
 
-</td>
+**[Repository](https://github.com/VladB-evs/Perch/releases/tag/v1.1)**
 
-<td width="25%" align="center">
+## Nook
 
-### Nook
+**A macOS text expander with scripting, variables, and automation.**
 
-macOS text expander with scripting, variables and automation.
+Turn repetitive typing and actions into simple shortcuts.
 
-</td>
+**[Repository](https://github.com/VladB-evs/Nook---Text-Expander)**
 
-<td width="25%" align="center">
+## Mark Flow
 
-### Mark Flow
+**A Markdown editor focused on clean output.**
 
-Markdown editor that converts rich markdown into clean plain text.
+Write with rich Markdown and turn it into clean, readable plain text.
 
-</td>
+**[Website](https://mark-flow-one.vercel.app/)**
 
-<td width="25%" align="center">
+## SVG Decomposer
 
-### SVG Decomposer
+**Extract individual layers from SVG files.**
 
-Extract individual layers from SVG files without opening Illustrator.
+Useful when you need to separate an SVG without opening Illustrator and questioning your life choices.
 
-</td>
-</tr>
+**[Website](https://svg-decomposer.vercel.app/)**
 
-<tr>
-<td align="center">
+---
 
-<a href="https://github.com/VladB-evs/Perch/releases/tag/v1.1">Repository</a>
-
-</td>
-
-<td align="center">
-
-<a href="https://github.com/VladB-evs/Nook---Text-Expander">Repository</a>
-
-</td>
-
-<td align="center">
-
-<a href="https://mark-flow-one.vercel.app/">Website</a>
-
-</td>
-
-<td align="center">
-
-<a href="https://svg-decomposer.vercel.app/">Website</a>
-
-</td>
-
-</tr>
-
-</table>
+More weird little apps are always on the way.
 
 <p align="center">
-More weird little apps are always on the way.
+  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg"/>
 </p>
-
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](#)
 
 # <img src="https://cdn.simpleicons.org/typescript/white" height="22"> Technologies
 
+I work across web, desktop, mobile, backend, and whatever else the current project decides to require.
+
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,electron,swift,kotlin,flutter,python,supabase,firebase,postgres,sqlite,aws,gcp,html,css,git,github,vscode"/>
-
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,electron,swift,kotlin,flutter,python,supabase,firebase,postgres,sqlite,aws,gcp,html,css,git,github,vscode"/>
 </p>
 
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](#)
+<p align="center">
+  <em>And probably a few technologies I forgot to put here.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg"/>
+</p>
 
 # <img src="https://cdn.simpleicons.org/github/white" height="22"> GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=VladB-evs&theme=radical"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=VladB-evs&theme=radical"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VladB-evs&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VladB-evs&theme=react-dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=VladB-evs&label=PROFILE+VIEWS&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=VladB-evs&label=PROFILE+VIEWS&style=flat-square"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code%20Time-3817%20hrs%2020%20mins-blue?style=flat" alt="Code Time" />
+  <img src="https://img.shields.io/badge/Code%20Time-3817%20hrs%2020%20mins-blue?style=flat" alt="Code Time"/>
 </p>
 
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](#)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg"/>
+</p>
 
 # <img src="https://cdn.simpleicons.org/changedetection/white" height="22"> Connect
 
 <p align="center">
 
 <a href="https://linkedin.com/in/vlad-bacila">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
-
-<p align="center">
 <a href="https://instagram.com/bacila.vlad">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-</p>
 
-<p align="center">
 <a href="mailto:vlad@romiadhd.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 <p align="center">
-<strong>Just a guy with a laptop.</strong>
+  <strong>Just a guy with a laptop.</strong>
 </p>
 
 <p align="center">
-If any of my projects helped you, consider leaving a ⭐
+  If any of my projects helped you, consider leaving a ⭐
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
