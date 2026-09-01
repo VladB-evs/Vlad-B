@@ -1,11 +1,11 @@
 <!-- RICK & MORTY GIF:START -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/DI6gMF5buIl1sX04Mp/giphy.gif" width="700">
+  <img src="https://media.giphy.com/media/JTa7LMZnXcrF0oyMxo/giphy.gif" width="700">
 </p>
 <!-- RICK & MORTY GIF:END -->
 
-<h1 align="center">Wubba Lubba Dub Dub.</h1>
+<h1 align="center">Let's get schwifty.</h1>
 
 <p align="center">
   <b>CTO and Co-Founder · Builder · Professional Over-Engineer</b>
@@ -37,11 +37,8 @@ Open Source <br>
 Automating repetitive nonsense <br>
 Turning "I wonder if..." into a GitHub repository <br>
 
-<br>
-
 #### Apparently I also like
 Starting side projects <br>
-Making things unnecessarily polished <br>
 Building tools to build other tools <br>
 Finding problems that probably didn't need solving <br>
 
@@ -100,14 +97,6 @@ Sleep             [██████░░░░░░░░░░░░░░]
 </p>
 
 ---
-
-<p align="center">
-  <sub>
-    This README automatically changes its Rick & Morty GIF every week.
-    <br>
-    Because apparently one dimension wasn't enough.
-  </sub>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-SCHWIFTY-23872?style=flat-square">
